@@ -1,5 +1,5 @@
 # DC Apartment Listings
-Inspired largely by the project hosted here, I walked through the process with a different town, to help out a friend. Along the way, I learned a bit about the awesome [scrapy](http://scrapy.org/) library, as well as [PostgreSQL](http://www.postgresql.org/). Hope you like what I've done! Plots on the way.
+Inspired largely by the project introduced  [here](http://gabrielelanaro.github.io/blog/2015/04/24/scraping-data.html), I walked through the process with a different town, to help out a friend. Along the way, I learned a bit about the awesome [scrapy](http://scrapy.org/) library, as well as [PostgreSQL](http://www.postgresql.org/). Hope you like what I've done! Plots on the way.
 
 ## Data Note:
 The data in this repo was obtained via the command
